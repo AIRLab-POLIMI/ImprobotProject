@@ -1,5 +1,5 @@
 # ImprobotProject
-Research Project in the field of Social Robotics led at the AIRLab (Artificial Intelligence &amp; Robotics Lab) of Politecnico di Milano. 
+Research Project in the field of Social Robotics led at the AIRLab (Artificial Intelligence &amp; Robotics Lab) at Politecnico di Milano. 
 The project aims to develop a robot system that can improvise in a controlled environment with an actor.
 
 ## My contribute
