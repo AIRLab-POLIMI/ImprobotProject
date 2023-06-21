@@ -2,7 +2,7 @@
 
 ## Reaction survey
 Reactions videos:
-* [Attack]{https://www.youtube.com/watch?v=fW9Tq6WwCL4}
+* [Attack](https://www.youtube.com/watch?v=fW9Tq6WwCL4)
 * [Scolding]{https://www.youtube.com/watch?v=kg3jIsZ1hrM}
 * [Intimidate]{https://www.youtube.com/watch?v=flDDhqZuv_E}
 * [Grudge]{https://www.youtube.com/watch?v=E9d__dZdeHo}
