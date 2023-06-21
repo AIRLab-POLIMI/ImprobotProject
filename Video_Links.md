@@ -12,7 +12,7 @@ Reactions videos:
 * [Sharing Fear](https://www.youtube.com/watch?v=PhfO0okb2kQ)
 * [Running Away](https://www.youtube.com/watch?v=vpaJ5MPX06w)
 * [Sharing Sadness](https://www.youtube.com/watch?v=LDUldVbcoPM)
-* [Disappointment(https://www.youtube.com/watch?v=axnxijdAHJQ)
+* [Disappointment](https://www.youtube.com/watch?v=axnxijdAHJQ)
 * [Surprise](https://www.youtube.com/watch?v=XS8aKDBrVGg)
 * [Disbelief](https://www.youtube.com/watch?v=5shT9QnaIcE)
 * [Astonishment](https://www.youtube.com/watch?v=ojnUWut8n8c)
